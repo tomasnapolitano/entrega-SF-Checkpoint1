@@ -6,6 +6,6 @@ Repo for presentation of the Practice Project "Checkpoint 1", for the Skill Fact
 
 Members that worked on project:
 -Fernando Clemens
--Mathias Aviol
+-Mathias Avolio
 -Maximiliano Santin
 -Tomas Napolitano
