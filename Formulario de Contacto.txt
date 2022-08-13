@@ -1,0 +1,16 @@
+Formulario de Contacto
+Recibir el nombre del usuario, el correo electrónico y un campo para el comentario que quiere enviar
+consologear
+
+La página principal debe contener tres botones: 
+Uno que me lleve al formulario
+Uno que me lleve a la tabla de usuarios
+Uno que me lleve a las cards.
+
+fuente: https://jsonplaceholder.typicode.com/users
+
+Nombre, Id, email, teléfono, ciudad del usuario. nombre de la compañía.
+
+
+API: https://rickandmortyapi.com/
+crear una card con nombre, foto
